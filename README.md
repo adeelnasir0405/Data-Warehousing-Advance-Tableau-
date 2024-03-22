@@ -1,0 +1,2 @@
+
+In this project we explored statistical analysis, forecasting, and clustering techniques using Tableau's advanced features. The analysis includes assessing correlation coefficients, generating forecasts, and identifying clusters in data visualizations. Additionally, control charts with control limits are employed to monitor data variation and detect outliers for further analysis and action. Overall, the project demonstrates advanced data analysis capabilities within Tableau for informed decision-making.
